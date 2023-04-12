@@ -1,1 +1,1 @@
-# ImageEncryptoor
+# ImageEncryptor
